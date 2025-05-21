@@ -7,5 +7,4 @@
 - [andromedacluster.com](https://andromedacluster.com/)
 - [aigrant.org](https://aigrant.org/)
 - [cloudlora.com](https://cloudlora.com/)
-- [gulp.ai](https://gulp.ai/)
 - your website? (open a PR to add yourself to this list)
